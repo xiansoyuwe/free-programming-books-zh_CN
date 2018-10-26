@@ -9,9 +9,7 @@
 - [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/xiansoyuwe/free-programming-books/blob/master/free-programming-books-zh.md)
 
-欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
-
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
+欢迎订阅我的微信公众帐号“诸葛冰箱说”。
 
 ## 参与交流
 
@@ -19,7 +17,6 @@
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
 
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
 
